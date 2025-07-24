@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fdgaviria\\Documents\\Sandbox\\DemoVentas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87F57EA4-2828-4DBE-8931-2893A086AF89}|DataBase{87F57EA4-2828-4DBE-8931-2893A086AF89}|C:\\Users\\fdgaviria\\Documents\\Sandbox\\DemoVentas\\Ventas.DB_VENTAS\\bck_db_ventas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{87F57EA4-2828-4DBE-8931-2893A086AF89}|DataBase{87F57EA4-2828-4DBE-8931-2893A086AF89}|solutionrelative:Ventas.DB_VENTAS\\bck_db_ventas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F57EA4-2828-4DBE-8931-2893A086AF89}|DataBase{87F57EA4-2828-4DBE-8931-2893A086AF89}|C:\\Users\\fdgaviria\\Documents\\Sandbox\\DemoVentas\\Ventas.DB_VENTAS\\bck_db_ventas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{87F57EA4-2828-4DBE-8931-2893A086AF89}|DataBase{87F57EA4-2828-4DBE-8931-2893A086AF89}|solutionrelative:Ventas.DB_VENTAS\\bck_db_ventas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bck_db_ventas.sql ",
+              "DocumentMoniker": "C:\\Users\\fdgaviria\\Documents\\Sandbox\\DemoVentas\\Ventas.DB_VENTAS\\bck_db_ventas.sql",
+              "RelativeDocumentMoniker": "Ventas.DB_VENTAS\\bck_db_ventas.sql",
+              "ToolTip": "C:\\Users\\fdgaviria\\Documents\\Sandbox\\DemoVentas\\Ventas.DB_VENTAS\\bck_db_ventas.sql",
+              "RelativeToolTip": "Ventas.DB_VENTAS\\bck_db_ventas.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-24T12:34:21.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

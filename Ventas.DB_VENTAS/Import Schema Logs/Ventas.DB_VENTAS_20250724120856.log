@@ -1,0 +1,85 @@
+24/07/2025 7:08:56 a. m.	This log contains information about the import schema operation into project 'Ventas.DB_VENTAS' on computer 'OMNIEL' by user 'fredd'.
+24/07/2025 7:08:56 a. m.	Import of database schema has started.
+24/07/2025 7:09:07 a. m.	Gathering database credentials
+24/07/2025 7:09:07 a. m.	Gathering database options
+24/07/2025 7:09:07 a. m.	Gathering generic database scoped configuration option
+24/07/2025 7:09:07 a. m.	Gathering users
+24/07/2025 7:09:07 a. m.	Gathering roles
+24/07/2025 7:09:07 a. m.	Gathering application roles
+24/07/2025 7:09:07 a. m.	Gathering role memberships
+24/07/2025 7:09:07 a. m.	Gathering filegroups
+24/07/2025 7:09:07 a. m.	Gathering full-text catalogs
+24/07/2025 7:09:07 a. m.	Gathering assemblies
+24/07/2025 7:09:07 a. m.	Gathering certificates
+24/07/2025 7:09:07 a. m.	Gathering asymmetric keys
+24/07/2025 7:09:07 a. m.	Gathering symmetric keys
+24/07/2025 7:09:07 a. m.	Gathering encrypted symmetric keys
+24/07/2025 7:09:07 a. m.	Gathering schemas
+24/07/2025 7:09:07 a. m.	Gathering XML schema collections
+24/07/2025 7:09:07 a. m.	Gathering user-defined data types
+24/07/2025 7:09:07 a. m.	Gathering user-defined types
+24/07/2025 7:09:07 a. m.	Gathering table types
+24/07/2025 7:09:07 a. m.	Gathering unique keys for table types
+24/07/2025 7:09:07 a. m.	Gathering primary keys for table types
+24/07/2025 7:09:08 a. m.	Gathering indexes for table types
+24/07/2025 7:09:08 a. m.	Gathering check constraints for table types
+24/07/2025 7:09:08 a. m.	Gathering default constraints for table types
+24/07/2025 7:09:08 a. m.	Gathering partition functions
+24/07/2025 7:09:08 a. m.	Gathering partition schemes
+24/07/2025 7:09:08 a. m.	Gathering functions
+24/07/2025 7:09:08 a. m.	Gathering encrypted functions
+24/07/2025 7:09:08 a. m.	Gathering aggregates
+24/07/2025 7:09:08 a. m.	Gathering procedures
+24/07/2025 7:09:09 a. m.	Gathering encrypted procedures
+24/07/2025 7:09:09 a. m.	Gathering tables
+24/07/2025 7:09:09 a. m.	Gathering primary keys
+24/07/2025 7:09:09 a. m.	Gathering unique constraints
+24/07/2025 7:09:09 a. m.	Gathering foreign keys
+24/07/2025 7:09:09 a. m.	Gathering default constraints
+24/07/2025 7:09:09 a. m.	Gathering check constraints
+24/07/2025 7:09:09 a. m.	Gathering views
+24/07/2025 7:09:09 a. m.	Gathering encrypted views
+24/07/2025 7:09:09 a. m.	Gathering indexes
+24/07/2025 7:09:09 a. m.	Gathering statistics
+24/07/2025 7:09:09 a. m.	Gathering full-text index stoplists
+24/07/2025 7:09:09 a. m.	Gathering search property lists
+24/07/2025 7:09:09 a. m.	Gathering search properties
+24/07/2025 7:09:09 a. m.	Gathering full-text indexes
+24/07/2025 7:09:09 a. m.	Gathering column store indexes
+24/07/2025 7:09:09 a. m.	Gathering spatial indexes
+24/07/2025 7:09:09 a. m.	Gathering XML indexes
+24/07/2025 7:09:09 a. m.	Gathering Selective XML indexes
+24/07/2025 7:09:09 a. m.	Gathering encrypted triggers
+24/07/2025 7:09:09 a. m.	Gathering triggers
+24/07/2025 7:09:09 a. m.	Gathering encrypted and clr ddl triggers
+24/07/2025 7:09:09 a. m.	Gathering ddl triggers
+24/07/2025 7:09:09 a. m.	Creating edge constraints
+24/07/2025 7:09:09 a. m.	Gathering synonyms
+24/07/2025 7:09:09 a. m.	Gathering defaults
+24/07/2025 7:09:09 a. m.	Gathering data constraint uddt bindings
+24/07/2025 7:09:09 a. m.	Gathering rules
+24/07/2025 7:09:09 a. m.	Gathering data constraint uddt bindings
+24/07/2025 7:09:09 a. m.	Gathering message types
+24/07/2025 7:09:09 a. m.	Gathering queues
+24/07/2025 7:09:09 a. m.	Gathering contracts
+24/07/2025 7:09:09 a. m.	Gathering services
+24/07/2025 7:09:09 a. m.	Gathering event notifications
+24/07/2025 7:09:09 a. m.	Gathering remote service bindings
+24/07/2025 7:09:09 a. m.	Gathering broker priorities
+24/07/2025 7:09:09 a. m.	Gathering signatures
+24/07/2025 7:09:09 a. m.	Gathering compression options
+24/07/2025 7:09:09 a. m.	Gathering sequence types
+24/07/2025 7:09:09 a. m.	Gathering security policies
+24/07/2025 7:09:09 a. m.	Gather column encryption keys
+24/07/2025 7:09:09 a. m.	Gathering column master keys
+24/07/2025 7:09:09 a. m.	Gathering external data sources
+24/07/2025 7:09:09 a. m.	Gathering external file formats
+24/07/2025 7:09:09 a. m.	Gathering external tables
+24/07/2025 7:09:09 a. m.	Gathering XML index compression options
+24/07/2025 7:09:09 a. m.	Gathering extended properties
+24/07/2025 7:09:09 a. m.	Gathering assemblies
+24/07/2025 7:09:12 a. m.	Scanning project for duplicate elements
+24/07/2025 7:09:12 a. m.	Finished duplicate element processing
+24/07/2025 7:09:12 a. m.	Finished importing database.
+24/07/2025 7:09:12 a. m.	A summary of the import was saved to the following location: C:\Users\fredd\Documents\Sandbox\Ventas\Ventas.DB_VENTAS\Import Schema Logs\Ventas.DB_VENTAS_20250724120856.log
+24/07/2025 7:09:12 a. m.	Click Finish to continue...
